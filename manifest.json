@@ -1,352 +1,404 @@
 {
     "version": 1,
-    "hash": "f3919e07",
+    "hash": "a377b5da",
     "atlasSize": 2048,
     "grid": 4,
     "atlases": [
         {
-            "file": "atlas_f3919e07_000.jpg",
+            "file": "atlas_a377b5da_000.jpg",
             "category": "Famous Pop Singers"
         },
         {
-            "file": "atlas_f3919e07_001.jpg",
+            "file": "atlas_a377b5da_001.jpg",
             "category": "Famous Pop Singers"
         },
         {
-            "file": "atlas_f3919e07_002.jpg",
+            "file": "atlas_a377b5da_002.jpg",
             "category": "Famous Pop Singers"
         },
         {
-            "file": "atlas_f3919e07_003.jpg",
+            "file": "atlas_a377b5da_003.jpg",
             "category": "Famous Pop Singers"
         },
         {
-            "file": "atlas_f3919e07_004.jpg",
+            "file": "atlas_a377b5da_004.jpg",
             "category": "Countries"
         },
         {
-            "file": "atlas_f3919e07_005.jpg",
+            "file": "atlas_a377b5da_005.jpg",
             "category": "Countries"
         },
         {
-            "file": "atlas_f3919e07_006.jpg",
+            "file": "atlas_a377b5da_006.jpg",
             "category": "Countries"
         },
         {
-            "file": "atlas_f3919e07_007.jpg",
+            "file": "atlas_a377b5da_007.jpg",
             "category": "Countries"
         },
         {
-            "file": "atlas_f3919e07_008.jpg",
+            "file": "atlas_a377b5da_008.jpg",
             "category": "World Landmarks"
         },
         {
-            "file": "atlas_f3919e07_009.jpg",
+            "file": "atlas_a377b5da_009.jpg",
             "category": "World Landmarks"
         },
         {
-            "file": "atlas_f3919e07_010.jpg",
+            "file": "atlas_a377b5da_010.jpg",
             "category": "World Landmarks"
         },
         {
-            "file": "atlas_f3919e07_011.jpg",
+            "file": "atlas_a377b5da_011.jpg",
             "category": "World Landmarks"
         },
         {
-            "file": "atlas_f3919e07_012.jpg",
+            "file": "atlas_a377b5da_012.jpg",
             "category": "Famous Historical Figures"
         },
         {
-            "file": "atlas_f3919e07_013.jpg",
+            "file": "atlas_a377b5da_013.jpg",
             "category": "Famous Historical Figures"
         },
         {
-            "file": "atlas_f3919e07_014.jpg",
+            "file": "atlas_a377b5da_014.jpg",
             "category": "Famous Historical Figures"
         },
         {
-            "file": "atlas_f3919e07_015.jpg",
+            "file": "atlas_a377b5da_015.jpg",
             "category": "Famous Historical Figures"
         },
         {
-            "file": "atlas_f3919e07_016.jpg",
+            "file": "atlas_a377b5da_016.jpg",
             "category": "Animals"
         },
         {
-            "file": "atlas_f3919e07_017.jpg",
+            "file": "atlas_a377b5da_017.jpg",
             "category": "Animals"
         },
         {
-            "file": "atlas_f3919e07_018.jpg",
+            "file": "atlas_a377b5da_018.jpg",
             "category": "Animals"
         },
         {
-            "file": "atlas_f3919e07_019.jpg",
+            "file": "atlas_a377b5da_019.jpg",
             "category": "Animals"
         },
         {
-            "file": "atlas_f3919e07_020.jpg",
+            "file": "atlas_a377b5da_020.jpg",
             "category": "LGBTQ+ Icons"
         },
         {
-            "file": "atlas_f3919e07_021.jpg",
+            "file": "atlas_a377b5da_021.jpg",
             "category": "LGBTQ+ Icons"
         },
         {
-            "file": "atlas_f3919e07_022.jpg",
+            "file": "atlas_a377b5da_022.jpg",
             "category": "LGBTQ+ Icons"
         },
         {
-            "file": "atlas_f3919e07_023.jpg",
+            "file": "atlas_a377b5da_023.jpg",
             "category": "LGBTQ+ Icons"
         },
         {
-            "file": "atlas_f3919e07_024.jpg",
+            "file": "atlas_a377b5da_024.jpg",
             "category": "World Foods"
         },
         {
-            "file": "atlas_f3919e07_025.jpg",
+            "file": "atlas_a377b5da_025.jpg",
             "category": "World Foods"
         },
         {
-            "file": "atlas_f3919e07_026.jpg",
+            "file": "atlas_a377b5da_026.jpg",
             "category": "World Foods"
         },
         {
-            "file": "atlas_f3919e07_027.jpg",
+            "file": "atlas_a377b5da_027.jpg",
             "category": "World Foods"
         },
         {
-            "file": "atlas_f3919e07_028.jpg",
+            "file": "atlas_a377b5da_028.jpg",
             "category": "Movie Stars"
         },
         {
-            "file": "atlas_f3919e07_029.jpg",
+            "file": "atlas_a377b5da_029.jpg",
             "category": "Movie Stars"
         },
         {
-            "file": "atlas_f3919e07_030.jpg",
+            "file": "atlas_a377b5da_030.jpg",
             "category": "Movie Stars"
         },
         {
-            "file": "atlas_f3919e07_031.jpg",
+            "file": "atlas_a377b5da_031.jpg",
             "category": "Movie Stars"
         },
         {
-            "file": "atlas_f3919e07_032.jpg",
+            "file": "atlas_a377b5da_032.jpg",
             "category": "Car Brands"
         },
         {
-            "file": "atlas_f3919e07_033.jpg",
+            "file": "atlas_a377b5da_033.jpg",
             "category": "Car Brands"
         },
         {
-            "file": "atlas_f3919e07_034.jpg",
+            "file": "atlas_a377b5da_034.jpg",
             "category": "Car Brands"
         },
         {
-            "file": "atlas_f3919e07_035.jpg",
+            "file": "atlas_a377b5da_035.jpg",
             "category": "Car Brands"
         },
         {
-            "file": "atlas_f3919e07_036.jpg",
+            "file": "atlas_a377b5da_036.jpg",
             "category": "Technology"
         },
         {
-            "file": "atlas_f3919e07_037.jpg",
+            "file": "atlas_a377b5da_037.jpg",
             "category": "Technology"
         },
         {
-            "file": "atlas_f3919e07_038.jpg",
+            "file": "atlas_a377b5da_038.jpg",
             "category": "Technology"
         },
         {
-            "file": "atlas_f3919e07_039.jpg",
+            "file": "atlas_a377b5da_039.jpg",
             "category": "Technology"
         },
         {
-            "file": "atlas_f3919e07_040.jpg",
+            "file": "atlas_a377b5da_040.jpg",
             "category": "Famous YouTubers"
         },
         {
-            "file": "atlas_f3919e07_041.jpg",
+            "file": "atlas_a377b5da_041.jpg",
             "category": "Famous YouTubers"
         },
         {
-            "file": "atlas_f3919e07_042.jpg",
+            "file": "atlas_a377b5da_042.jpg",
             "category": "Famous YouTubers"
         },
         {
-            "file": "atlas_f3919e07_043.jpg",
+            "file": "atlas_a377b5da_043.jpg",
             "category": "Famous YouTubers"
         },
         {
-            "file": "atlas_f3919e07_044.jpg",
+            "file": "atlas_a377b5da_044.jpg",
             "category": "Car Parts"
         },
         {
-            "file": "atlas_f3919e07_045.jpg",
+            "file": "atlas_a377b5da_045.jpg",
             "category": "Car Parts"
         },
         {
-            "file": "atlas_f3919e07_046.jpg",
+            "file": "atlas_a377b5da_046.jpg",
             "category": "Car Parts"
         },
         {
-            "file": "atlas_f3919e07_047.jpg",
+            "file": "atlas_a377b5da_047.jpg",
             "category": "Car Parts"
         },
         {
-            "file": "atlas_f3919e07_048.jpg",
+            "file": "atlas_a377b5da_048.jpg",
             "category": "Historical Events"
         },
         {
-            "file": "atlas_f3919e07_049.jpg",
+            "file": "atlas_a377b5da_049.jpg",
             "category": "Historical Events"
         },
         {
-            "file": "atlas_f3919e07_050.jpg",
+            "file": "atlas_a377b5da_050.jpg",
             "category": "Historical Events"
         },
         {
-            "file": "atlas_f3919e07_051.jpg",
+            "file": "atlas_a377b5da_051.jpg",
             "category": "Historical Events"
         },
         {
-            "file": "atlas_f3919e07_052.jpg",
+            "file": "atlas_a377b5da_052.jpg",
             "category": "Canceled Celebrities"
         },
         {
-            "file": "atlas_f3919e07_053.jpg",
+            "file": "atlas_a377b5da_053.jpg",
             "category": "Canceled Celebrities"
         },
         {
-            "file": "atlas_f3919e07_054.jpg",
+            "file": "atlas_a377b5da_054.jpg",
             "category": "Canceled Celebrities"
         },
         {
-            "file": "atlas_f3919e07_055.jpg",
+            "file": "atlas_a377b5da_055.jpg",
             "category": "Canceled Celebrities"
         },
         {
-            "file": "atlas_f3919e07_056.jpg",
+            "file": "atlas_a377b5da_056.jpg",
             "category": "Numbers"
         },
         {
-            "file": "atlas_f3919e07_057.jpg",
+            "file": "atlas_a377b5da_057.jpg",
             "category": "Numbers"
         },
         {
-            "file": "atlas_f3919e07_058.jpg",
+            "file": "atlas_a377b5da_058.jpg",
             "category": "Numbers"
         },
         {
-            "file": "atlas_f3919e07_059.jpg",
+            "file": "atlas_a377b5da_059.jpg",
             "category": "Numbers"
         },
         {
-            "file": "atlas_f3919e07_060.jpg",
+            "file": "atlas_a377b5da_060.jpg",
             "category": "Video Game Characters"
         },
         {
-            "file": "atlas_f3919e07_061.jpg",
+            "file": "atlas_a377b5da_061.jpg",
             "category": "Video Game Characters"
         },
         {
-            "file": "atlas_f3919e07_062.jpg",
+            "file": "atlas_a377b5da_062.jpg",
             "category": "Video Game Characters"
         },
         {
-            "file": "atlas_f3919e07_063.jpg",
+            "file": "atlas_a377b5da_063.jpg",
             "category": "Video Game Characters"
         },
         {
-            "file": "atlas_f3919e07_064.jpg",
+            "file": "atlas_a377b5da_064.jpg",
             "category": "Deceased Celebrities"
         },
         {
-            "file": "atlas_f3919e07_065.jpg",
+            "file": "atlas_a377b5da_065.jpg",
             "category": "Deceased Celebrities"
         },
         {
-            "file": "atlas_f3919e07_066.jpg",
+            "file": "atlas_a377b5da_066.jpg",
             "category": "Deceased Celebrities"
         },
         {
-            "file": "atlas_f3919e07_067.jpg",
+            "file": "atlas_a377b5da_067.jpg",
             "category": "Deceased Celebrities"
         },
         {
-            "file": "atlas_f3919e07_068.jpg",
+            "file": "atlas_a377b5da_068.jpg",
             "category": "Deceased Celebrities"
         },
         {
-            "file": "atlas_f3919e07_069.jpg",
+            "file": "atlas_a377b5da_069.jpg",
             "category": "Famous Movies"
         },
         {
-            "file": "atlas_f3919e07_070.jpg",
+            "file": "atlas_a377b5da_070.jpg",
             "category": "Famous Movies"
         },
         {
-            "file": "atlas_f3919e07_071.jpg",
+            "file": "atlas_a377b5da_071.jpg",
             "category": "Famous Movies"
         },
         {
-            "file": "atlas_f3919e07_072.jpg",
+            "file": "atlas_a377b5da_072.jpg",
             "category": "Famous Movies"
         },
         {
-            "file": "atlas_f3919e07_073.jpg",
+            "file": "atlas_a377b5da_073.jpg",
             "category": "Famous Movies"
         },
         {
-            "file": "atlas_f3919e07_074.jpg",
+            "file": "atlas_a377b5da_074.jpg",
             "category": "Famous Movies"
         },
         {
-            "file": "atlas_f3919e07_075.jpg",
+            "file": "atlas_a377b5da_075.jpg",
             "category": "Famous Movies"
         },
         {
-            "file": "atlas_f3919e07_076.jpg",
+            "file": "atlas_a377b5da_076.jpg",
             "category": "Pokemon Gen 1"
         },
         {
-            "file": "atlas_f3919e07_077.jpg",
+            "file": "atlas_a377b5da_077.jpg",
             "category": "Pokemon Gen 1"
         },
         {
-            "file": "atlas_f3919e07_078.jpg",
+            "file": "atlas_a377b5da_078.jpg",
             "category": "Pokemon Gen 1"
         },
         {
-            "file": "atlas_f3919e07_079.jpg",
+            "file": "atlas_a377b5da_079.jpg",
             "category": "Pokemon Gen 1"
         },
         {
-            "file": "atlas_f3919e07_080.jpg",
+            "file": "atlas_a377b5da_080.jpg",
             "category": "Pokemon Gen 1"
         },
         {
-            "file": "atlas_f3919e07_081.jpg",
+            "file": "atlas_a377b5da_081.jpg",
             "category": "Pokemon Gen 1"
         },
         {
-            "file": "atlas_f3919e07_082.jpg",
+            "file": "atlas_a377b5da_082.jpg",
             "category": "Pokemon Gen 1"
         },
         {
-            "file": "atlas_f3919e07_083.jpg",
+            "file": "atlas_a377b5da_083.jpg",
             "category": "Pokemon Gen 1"
         },
         {
-            "file": "atlas_f3919e07_084.jpg",
+            "file": "atlas_a377b5da_084.jpg",
             "category": "Pokemon Gen 1"
         },
         {
-            "file": "atlas_f3919e07_085.jpg",
+            "file": "atlas_a377b5da_085.jpg",
             "category": "Pokemon Gen 1"
+        },
+        {
+            "file": "atlas_a377b5da_086.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_087.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_088.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_089.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_090.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_091.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_092.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_093.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_094.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_095.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_096.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_097.jpg",
+            "category": "Vexillology"
+        },
+        {
+            "file": "atlas_a377b5da_098.jpg",
+            "category": "Vexillology"
         }
     ],
     "cards": [
@@ -10996,6 +11048,1761 @@
             "w": 0.2392578125,
             "h": 0.2421875,
             "aspect": 0.9879032373428345
+        },
+        {
+            "image": "Flags/Afghanistan.png",
+            "atlas": 86,
+            "u": 0.00390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Albania.png",
+            "atlas": 86,
+            "u": 0.25390625,
+            "v": 0.78857421875,
+            "w": 0.2421875,
+            "h": 0.1728515625,
+            "aspect": 1.401129961013794
+        },
+        {
+            "image": "Flags/Algeria.png",
+            "atlas": 86,
+            "u": 0.50390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Andorra.png",
+            "atlas": 86,
+            "u": 0.75390625,
+            "v": 0.7900390625,
+            "w": 0.2421875,
+            "h": 0.16943359375,
+            "aspect": 1.4293948411941529
+        },
+        {
+            "image": "Flags/Angola.png",
+            "atlas": 86,
+            "u": 0.00390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Antigua_and_Barbuda.png",
+            "atlas": 86,
+            "u": 0.25390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Argentina.png",
+            "atlas": 86,
+            "u": 0.50390625,
+            "v": 0.54931640625,
+            "w": 0.2421875,
+            "h": 0.1513671875,
+            "aspect": 1.600000023841858
+        },
+        {
+            "image": "Flags/Armenia.png",
+            "atlas": 86,
+            "u": 0.75390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Australia.png",
+            "atlas": 86,
+            "u": 0.00390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Austria.png",
+            "atlas": 86,
+            "u": 0.25390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Azerbaijan.png",
+            "atlas": 86,
+            "u": 0.50390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Bahamas.png",
+            "atlas": 86,
+            "u": 0.75390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Bahrain.png",
+            "atlas": 86,
+            "u": 0.00390625,
+            "v": 0.05224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Bangladesh.png",
+            "atlas": 86,
+            "u": 0.25390625,
+            "v": 0.05224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Barbados.png",
+            "atlas": 86,
+            "u": 0.50390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Belarus.png",
+            "atlas": 86,
+            "u": 0.75390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Belgium.png",
+            "atlas": 87,
+            "u": 0.00390625,
+            "v": 0.77001953125,
+            "w": 0.2421875,
+            "h": 0.2099609375,
+            "aspect": 1.1534883975982667
+        },
+        {
+            "image": "Flags/Belize.png",
+            "atlas": 87,
+            "u": 0.25390625,
+            "v": 0.80224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Benin.png",
+            "atlas": 87,
+            "u": 0.50390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Bhutan.png",
+            "atlas": 87,
+            "u": 0.75390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Bolivia.png",
+            "atlas": 87,
+            "u": 0.00390625,
+            "v": 0.54248046875,
+            "w": 0.2421875,
+            "h": 0.1650390625,
+            "aspect": 1.4674556255340577
+        },
+        {
+            "image": "Flags/Bosnia_and_Herzegovina.png",
+            "atlas": 87,
+            "u": 0.25390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Botswana.png",
+            "atlas": 87,
+            "u": 0.50390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Brazil.png",
+            "atlas": 87,
+            "u": 0.75390625,
+            "v": 0.5400390625,
+            "w": 0.2421875,
+            "h": 0.16943359375,
+            "aspect": 1.4293948411941529
+        },
+        {
+            "image": "Flags/Brunei.png",
+            "atlas": 87,
+            "u": 0.00390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Bulgaria.png",
+            "atlas": 87,
+            "u": 0.25390625,
+            "v": 0.30224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Burkina_Faso.png",
+            "atlas": 87,
+            "u": 0.50390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Burundi.png",
+            "atlas": 87,
+            "u": 0.75390625,
+            "v": 0.30224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Cambodia.png",
+            "atlas": 87,
+            "u": 0.00390625,
+            "v": 0.04736328125,
+            "w": 0.2421875,
+            "h": 0.1552734375,
+            "aspect": 1.5597484111785889
+        },
+        {
+            "image": "Flags/Cameroon.png",
+            "atlas": 87,
+            "u": 0.25390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Canada.png",
+            "atlas": 87,
+            "u": 0.50390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Cape_Verde.png",
+            "atlas": 87,
+            "u": 0.75390625,
+            "v": 0.0537109375,
+            "w": 0.2421875,
+            "h": 0.14208984375,
+            "aspect": 1.7044672966003419
+        },
+        {
+            "image": "Flags/Central_African_Republic.png",
+            "atlas": 88,
+            "u": 0.00390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Chad.png",
+            "atlas": 88,
+            "u": 0.25390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Chile.png",
+            "atlas": 88,
+            "u": 0.50390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/China.png",
+            "atlas": 88,
+            "u": 0.75390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Colombia.png",
+            "atlas": 88,
+            "u": 0.00390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Comoros.png",
+            "atlas": 88,
+            "u": 0.25390625,
+            "v": 0.55224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Costa_Rica.png",
+            "atlas": 88,
+            "u": 0.50390625,
+            "v": 0.55224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Croatia.png",
+            "atlas": 88,
+            "u": 0.75390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Cuba.png",
+            "atlas": 88,
+            "u": 0.00390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Cyprus.png",
+            "atlas": 88,
+            "u": 0.25390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Czechia.png",
+            "atlas": 88,
+            "u": 0.50390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/DR_Congo.png",
+            "atlas": 88,
+            "u": 0.75390625,
+            "v": 0.2841796875,
+            "w": 0.2421875,
+            "h": 0.181640625,
+            "aspect": 1.3333333730697632
+        },
+        {
+            "image": "Flags/Denmark.png",
+            "atlas": 88,
+            "u": 0.00390625,
+            "v": 0.033203125,
+            "w": 0.2421875,
+            "h": 0.18310546875,
+            "aspect": 1.3226666450500489
+        },
+        {
+            "image": "Flags/Djibouti.png",
+            "atlas": 88,
+            "u": 0.25390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Dominica.png",
+            "atlas": 88,
+            "u": 0.50390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Dominican_Republic.png",
+            "atlas": 88,
+            "u": 0.75390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Ecuador.png",
+            "atlas": 89,
+            "u": 0.00390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Egypt.png",
+            "atlas": 89,
+            "u": 0.25390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/El_Salvador.png",
+            "atlas": 89,
+            "u": 0.50390625,
+            "v": 0.806640625,
+            "w": 0.2421875,
+            "h": 0.13671875,
+            "aspect": 1.7714285850524903
+        },
+        {
+            "image": "Flags/Equatorial_Guinea.png",
+            "atlas": 89,
+            "u": 0.75390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Eritrea.png",
+            "atlas": 89,
+            "u": 0.00390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Estonia.png",
+            "atlas": 89,
+            "u": 0.25390625,
+            "v": 0.5478515625,
+            "w": 0.2421875,
+            "h": 0.15380859375,
+            "aspect": 1.5746031999588013
+        },
+        {
+            "image": "Flags/Eswatini.png",
+            "atlas": 89,
+            "u": 0.50390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Ethiopia.png",
+            "atlas": 89,
+            "u": 0.75390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Fiji.png",
+            "atlas": 89,
+            "u": 0.00390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Finland.png",
+            "atlas": 89,
+            "u": 0.25390625,
+            "v": 0.30078125,
+            "w": 0.2421875,
+            "h": 0.14794921875,
+            "aspect": 1.6369637250900269
+        },
+        {
+            "image": "Flags/France.png",
+            "atlas": 89,
+            "u": 0.50390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Gabon.png",
+            "atlas": 89,
+            "u": 0.75390625,
+            "v": 0.2841796875,
+            "w": 0.2421875,
+            "h": 0.181640625,
+            "aspect": 1.3333333730697632
+        },
+        {
+            "image": "Flags/Gambia.png",
+            "atlas": 89,
+            "u": 0.00390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Georgia.png",
+            "atlas": 89,
+            "u": 0.25390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Germany.png",
+            "atlas": 89,
+            "u": 0.50390625,
+            "v": 0.05224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Ghana.png",
+            "atlas": 89,
+            "u": 0.75390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Greece.png",
+            "atlas": 90,
+            "u": 0.00390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Grenada.png",
+            "atlas": 90,
+            "u": 0.25390625,
+            "v": 0.80224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Guatemala.png",
+            "atlas": 90,
+            "u": 0.50390625,
+            "v": 0.79931640625,
+            "w": 0.2421875,
+            "h": 0.1513671875,
+            "aspect": 1.600000023841858
+        },
+        {
+            "image": "Flags/Guinea.png",
+            "atlas": 90,
+            "u": 0.75390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Guinea_Bissau.png",
+            "atlas": 90,
+            "u": 0.00390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Guyana.png",
+            "atlas": 90,
+            "u": 0.25390625,
+            "v": 0.55224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Haiti.png",
+            "atlas": 90,
+            "u": 0.50390625,
+            "v": 0.55224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Honduras.png",
+            "atlas": 90,
+            "u": 0.75390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Hungary.png",
+            "atlas": 90,
+            "u": 0.00390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Iceland.png",
+            "atlas": 90,
+            "u": 0.25390625,
+            "v": 0.28759765625,
+            "w": 0.2421875,
+            "h": 0.17431640625,
+            "aspect": 1.3893557786941529
+        },
+        {
+            "image": "Flags/India.png",
+            "atlas": 90,
+            "u": 0.50390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Indonesia.png",
+            "atlas": 90,
+            "u": 0.75390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Iran.png",
+            "atlas": 90,
+            "u": 0.00390625,
+            "v": 0.0556640625,
+            "w": 0.2421875,
+            "h": 0.138671875,
+            "aspect": 1.7464789152145386
+        },
+        {
+            "image": "Flags/Iraq.png",
+            "atlas": 90,
+            "u": 0.25390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Ireland.png",
+            "atlas": 90,
+            "u": 0.50390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Israel.png",
+            "atlas": 90,
+            "u": 0.75390625,
+            "v": 0.037109375,
+            "w": 0.2421875,
+            "h": 0.17578125,
+            "aspect": 1.3777778148651124
+        },
+        {
+            "image": "Flags/Italy.png",
+            "atlas": 91,
+            "u": 0.00390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Ivory_Coast.png",
+            "atlas": 91,
+            "u": 0.25390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Jamaica.png",
+            "atlas": 91,
+            "u": 0.50390625,
+            "v": 0.814453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Japan.png",
+            "atlas": 91,
+            "u": 0.75390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Jordan.png",
+            "atlas": 91,
+            "u": 0.00390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Kazakhstan.png",
+            "atlas": 91,
+            "u": 0.25390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Kenya.png",
+            "atlas": 91,
+            "u": 0.50390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Kiribati.png",
+            "atlas": 91,
+            "u": 0.75390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Kuwait.png",
+            "atlas": 91,
+            "u": 0.00390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Kyrgyzstan.png",
+            "atlas": 91,
+            "u": 0.25390625,
+            "v": 0.30224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Laos.png",
+            "atlas": 91,
+            "u": 0.50390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Latvia.png",
+            "atlas": 91,
+            "u": 0.75390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Lebanon.png",
+            "atlas": 91,
+            "u": 0.00390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Lesotho.png",
+            "atlas": 91,
+            "u": 0.25390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Liberia.png",
+            "atlas": 91,
+            "u": 0.50390625,
+            "v": 0.06103515625,
+            "w": 0.2421875,
+            "h": 0.12744140625,
+            "aspect": 1.9003831148147584
+        },
+        {
+            "image": "Flags/Libya.png",
+            "atlas": 91,
+            "u": 0.75390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Liechtenstein.png",
+            "atlas": 92,
+            "u": 0.00390625,
+            "v": 0.80224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Lithuania.png",
+            "atlas": 92,
+            "u": 0.25390625,
+            "v": 0.80224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Luxembourg.png",
+            "atlas": 92,
+            "u": 0.50390625,
+            "v": 0.80224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Madagascar.png",
+            "atlas": 92,
+            "u": 0.75390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Malawi.png",
+            "atlas": 92,
+            "u": 0.00390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Malaysia.png",
+            "atlas": 92,
+            "u": 0.25390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Maldives.png",
+            "atlas": 92,
+            "u": 0.50390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Mali.png",
+            "atlas": 92,
+            "u": 0.75390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Malta.png",
+            "atlas": 92,
+            "u": 0.00390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Marshall_Islands.png",
+            "atlas": 92,
+            "u": 0.25390625,
+            "v": 0.31103515625,
+            "w": 0.2421875,
+            "h": 0.12744140625,
+            "aspect": 1.9003831148147584
+        },
+        {
+            "image": "Flags/Mauritania.png",
+            "atlas": 92,
+            "u": 0.50390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Mauritius.png",
+            "atlas": 92,
+            "u": 0.75390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Mexico.png",
+            "atlas": 92,
+            "u": 0.00390625,
+            "v": 0.0556640625,
+            "w": 0.2421875,
+            "h": 0.138671875,
+            "aspect": 1.7464789152145386
+        },
+        {
+            "image": "Flags/Micronesia.png",
+            "atlas": 92,
+            "u": 0.25390625,
+            "v": 0.06103515625,
+            "w": 0.2421875,
+            "h": 0.12744140625,
+            "aspect": 1.9003831148147584
+        },
+        {
+            "image": "Flags/Moldova.png",
+            "atlas": 92,
+            "u": 0.50390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Monaco.png",
+            "atlas": 92,
+            "u": 0.75390625,
+            "v": 0.02783203125,
+            "w": 0.2421875,
+            "h": 0.19384765625,
+            "aspect": 1.2493703365325928
+        },
+        {
+            "image": "Flags/Mongolia.png",
+            "atlas": 93,
+            "u": 0.00390625,
+            "v": 0.814453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Montenegro.png",
+            "atlas": 93,
+            "u": 0.25390625,
+            "v": 0.814453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Morocco.png",
+            "atlas": 93,
+            "u": 0.50390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Mozambique.png",
+            "atlas": 93,
+            "u": 0.75390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Myanmar.png",
+            "atlas": 93,
+            "u": 0.00390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Namibia.png",
+            "atlas": 93,
+            "u": 0.25390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Nauru.png",
+            "atlas": 93,
+            "u": 0.50390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Nepal.png",
+            "atlas": 93,
+            "u": 0.775390625,
+            "v": 0.50390625,
+            "w": 0.19873046875,
+            "h": 0.2421875,
+            "aspect": 0.8205645084381104
+        },
+        {
+            "image": "Flags/Netherlands.png",
+            "atlas": 93,
+            "u": 0.00390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/New_Zealand.png",
+            "atlas": 93,
+            "u": 0.25390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Nicaragua.png",
+            "atlas": 93,
+            "u": 0.50390625,
+            "v": 0.30224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Niger.png",
+            "atlas": 93,
+            "u": 0.75390625,
+            "v": 0.27099609375,
+            "w": 0.2421875,
+            "h": 0.20751953125,
+            "aspect": 1.1670588254928589
+        },
+        {
+            "image": "Flags/Nigeria.png",
+            "atlas": 93,
+            "u": 0.00390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/North_Korea.png",
+            "atlas": 93,
+            "u": 0.25390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/North_Macedonia.png",
+            "atlas": 93,
+            "u": 0.50390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Norway.png",
+            "atlas": 93,
+            "u": 0.75390625,
+            "v": 0.037109375,
+            "w": 0.2421875,
+            "h": 0.17578125,
+            "aspect": 1.3777778148651124
+        },
+        {
+            "image": "Flags/Oman.png",
+            "atlas": 94,
+            "u": 0.00390625,
+            "v": 0.8056640625,
+            "w": 0.2421875,
+            "h": 0.138671875,
+            "aspect": 1.7464789152145386
+        },
+        {
+            "image": "Flags/Pakistan.png",
+            "atlas": 94,
+            "u": 0.25390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Palau.png",
+            "atlas": 94,
+            "u": 0.50390625,
+            "v": 0.79931640625,
+            "w": 0.2421875,
+            "h": 0.1513671875,
+            "aspect": 1.600000023841858
+        },
+        {
+            "image": "Flags/Palestine.png",
+            "atlas": 94,
+            "u": 0.75390625,
+            "v": 0.814453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Panama.png",
+            "atlas": 94,
+            "u": 0.00390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Papua_New_Guinea.png",
+            "atlas": 94,
+            "u": 0.25390625,
+            "v": 0.5341796875,
+            "w": 0.2421875,
+            "h": 0.181640625,
+            "aspect": 1.3333333730697632
+        },
+        {
+            "image": "Flags/Paraguay.png",
+            "atlas": 94,
+            "u": 0.50390625,
+            "v": 0.55810546875,
+            "w": 0.2421875,
+            "h": 0.13330078125,
+            "aspect": 1.8168498277664185
+        },
+        {
+            "image": "Flags/Peru.png",
+            "atlas": 94,
+            "u": 0.75390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Philippines.png",
+            "atlas": 94,
+            "u": 0.00390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Poland.png",
+            "atlas": 94,
+            "u": 0.25390625,
+            "v": 0.29931640625,
+            "w": 0.2421875,
+            "h": 0.1513671875,
+            "aspect": 1.600000023841858
+        },
+        {
+            "image": "Flags/Portugal.png",
+            "atlas": 94,
+            "u": 0.50390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Qatar.png",
+            "atlas": 94,
+            "u": 0.75390625,
+            "v": 0.3271484375,
+            "w": 0.2421875,
+            "h": 0.09521484375,
+            "aspect": 2.5435898303985597
+        },
+        {
+            "image": "Flags/Republic_of_the_Congo.png",
+            "atlas": 94,
+            "u": 0.00390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Romania.png",
+            "atlas": 94,
+            "u": 0.25390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Russia.png",
+            "atlas": 94,
+            "u": 0.50390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Rwanda.png",
+            "atlas": 94,
+            "u": 0.75390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Saint_Kitts_and_Nevis.png",
+            "atlas": 95,
+            "u": 0.00390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Saint_Lucia.png",
+            "atlas": 95,
+            "u": 0.25390625,
+            "v": 0.814453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Saint_Vincent_and_the_Grenadines.png",
+            "atlas": 95,
+            "u": 0.50390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Samoa.png",
+            "atlas": 95,
+            "u": 0.75390625,
+            "v": 0.814453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/San_Marino.png",
+            "atlas": 95,
+            "u": 0.00390625,
+            "v": 0.5341796875,
+            "w": 0.2421875,
+            "h": 0.181640625,
+            "aspect": 1.3333333730697632
+        },
+        {
+            "image": "Flags/Sao_Tome_and_Principe.png",
+            "atlas": 95,
+            "u": 0.25390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Saudi_Arabia.png",
+            "atlas": 95,
+            "u": 0.50390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Senegal.png",
+            "atlas": 95,
+            "u": 0.75390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Serbia.png",
+            "atlas": 95,
+            "u": 0.00390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Seychelles.png",
+            "atlas": 95,
+            "u": 0.25390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Sierra_Leone.png",
+            "atlas": 95,
+            "u": 0.50390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Singapore.png",
+            "atlas": 95,
+            "u": 0.75390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Slovakia.png",
+            "atlas": 95,
+            "u": 0.00390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Slovenia.png",
+            "atlas": 95,
+            "u": 0.25390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Solomon_Islands.png",
+            "atlas": 95,
+            "u": 0.50390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Somalia.png",
+            "atlas": 95,
+            "u": 0.75390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/South_Africa.png",
+            "atlas": 96,
+            "u": 0.00390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/South_Korea.png",
+            "atlas": 96,
+            "u": 0.25390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/South_Sudan.png",
+            "atlas": 96,
+            "u": 0.50390625,
+            "v": 0.814453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Spain.png",
+            "atlas": 96,
+            "u": 0.75390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Sri_Lanka.png",
+            "atlas": 96,
+            "u": 0.00390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Sudan.png",
+            "atlas": 96,
+            "u": 0.25390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Suriname.png",
+            "atlas": 96,
+            "u": 0.50390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Sweden.png",
+            "atlas": 96,
+            "u": 0.75390625,
+            "v": 0.54931640625,
+            "w": 0.2421875,
+            "h": 0.1513671875,
+            "aspect": 1.600000023841858
+        },
+        {
+            "image": "Flags/Switzerland.png",
+            "atlas": 96,
+            "u": 0.00390625,
+            "v": 0.25390625,
+            "w": 0.2421875,
+            "h": 0.2421875,
+            "aspect": 1.0
+        },
+        {
+            "image": "Flags/Syria.png",
+            "atlas": 96,
+            "u": 0.25390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Tajikistan.png",
+            "atlas": 96,
+            "u": 0.50390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Tanzania.png",
+            "atlas": 96,
+            "u": 0.75390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Thailand.png",
+            "atlas": 96,
+            "u": 0.00390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Timor_Leste.png",
+            "atlas": 96,
+            "u": 0.25390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Togo.png",
+            "atlas": 96,
+            "u": 0.50390625,
+            "v": 0.0498046875,
+            "w": 0.2421875,
+            "h": 0.14990234375,
+            "aspect": 1.6156351566314698
+        },
+        {
+            "image": "Flags/Tonga.png",
+            "atlas": 96,
+            "u": 0.75390625,
+            "v": 0.064453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Trinidad_and_Tobago.png",
+            "atlas": 97,
+            "u": 0.00390625,
+            "v": 0.80224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Tunisia.png",
+            "atlas": 97,
+            "u": 0.25390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Turkiye.png",
+            "atlas": 97,
+            "u": 0.50390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Turkmenistan.png",
+            "atlas": 97,
+            "u": 0.75390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Tuvalu.png",
+            "atlas": 97,
+            "u": 0.00390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Uganda.png",
+            "atlas": 97,
+            "u": 0.25390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Ukraine.png",
+            "atlas": 97,
+            "u": 0.50390625,
+            "v": 0.5439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/United_Arab_Emirates.png",
+            "atlas": 97,
+            "u": 0.75390625,
+            "v": 0.564453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/United_Kingdom.png",
+            "atlas": 97,
+            "u": 0.00390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/United_States.png",
+            "atlas": 97,
+            "u": 0.25390625,
+            "v": 0.31103515625,
+            "w": 0.2421875,
+            "h": 0.12744140625,
+            "aspect": 1.9003831148147584
+        },
+        {
+            "image": "Flags/Uruguay.png",
+            "atlas": 97,
+            "u": 0.50390625,
+            "v": 0.2939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Uzbekistan.png",
+            "atlas": 97,
+            "u": 0.75390625,
+            "v": 0.314453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
+        },
+        {
+            "image": "Flags/Vanuatu.png",
+            "atlas": 97,
+            "u": 0.00390625,
+            "v": 0.05224609375,
+            "w": 0.2421875,
+            "h": 0.1455078125,
+            "aspect": 1.6644295454025269
+        },
+        {
+            "image": "Flags/Vatican_City.png",
+            "atlas": 97,
+            "u": 0.25390625,
+            "v": 0.00390625,
+            "w": 0.2421875,
+            "h": 0.2421875,
+            "aspect": 1.0
+        },
+        {
+            "image": "Flags/Venezuela.png",
+            "atlas": 97,
+            "u": 0.50390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Vietnam.png",
+            "atlas": 97,
+            "u": 0.75390625,
+            "v": 0.0439453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Yemen.png",
+            "atlas": 98,
+            "u": 0.00390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Zambia.png",
+            "atlas": 98,
+            "u": 0.25390625,
+            "v": 0.7939453125,
+            "w": 0.2421875,
+            "h": 0.16162109375,
+            "aspect": 1.4984893798828126
+        },
+        {
+            "image": "Flags/Zimbabwe.png",
+            "atlas": 98,
+            "u": 0.50390625,
+            "v": 0.814453125,
+            "w": 0.2421875,
+            "h": 0.12109375,
+            "aspect": 2.0
         }
     ]
 }
